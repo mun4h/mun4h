@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cyber  Projects:</h2>
   
- - [Vulnerabilty Management](https://github.com/mun4h/Vulnerabiltymanagement)
+<!-- - [Vulnerabilty Management](https://github.com/mun4h/Vulnerabiltymanagement)
   - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
+-->
  
 <h2> 🤳 Certifications:</h2>
   
