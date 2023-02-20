@@ -8,7 +8,7 @@
  
 <h2> 🤳 Certifications:</h2>
   
-   - [Certified in Cybersecurity](https://www.credly.com/badges/3e7f3c64-bab4-46ad-a2c8-9bc8fb488e01/public_url)
+   - [Certified in Cybersecurity](https://www.credly.com/badges/e6280f3d-01be-4454-ac20-cb2c10d3dc08/public_url)
    - [CompTIA Security+ ce Certification](https://www.youracclaim.com/badges/19503404-cb15-492e-87fa-6f436d8cc28c/linked_in_profile)
    - [CompTIA Network+ ce Certification](https://www.youracclaim.com/badges/973ed780-5153-40be-9b77-460ff3af68b7/linked_in_profile)
    - [CompTIA A+](https://www.youracclaim.com/badges/1386c70c-b0bb-4437-84df-7a240d6002e2/linked_in_profile)
