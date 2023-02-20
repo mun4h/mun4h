@@ -1,6 +1,6 @@
 <h1>Hello, I'm Modeenah! <br/> <a href="https://www.linkedin.com/in/Modeenahadeyemo/">IT Professional</a>
 
-<h2>👨‍💻 Cyber  Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
   
 <!-- - [Vulnerabilty Management](https://github.com/mun4h/Vulnerabiltymanagement)
   - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
